@@ -8,7 +8,7 @@ import { getEthereum } from "../utils/ethereum";
 import { blockTimeStampToDate, weiToAvax } from "../utils/formatter";
 
 export const BankAddress = "0x68704f4c1cdc3d69D5c1c638023aC4f2E5F26E17";
-export const TxAllowListAddress = "0x0200000000000000000000000000000000000002";
+export const TxAllowListAddress = "0x7b718D4Ce6ca83536660a314639559F3d3f6e9e3";
 
 export type BillType = {
   amount: string;
