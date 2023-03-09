@@ -7,7 +7,7 @@ import { IAllowList as TxAllowListType } from "../types";
 import { getEthereum } from "../utils/ethereum";
 import { blockTimeStampToDate, weiToAvax } from "../utils/formatter";
 
-export const BankAddress = "0x8C6dFbFC0b3e83cBBB82E4b5A187Bc9C0EcE0630";
+export const BankAddress = "0x68704f4c1cdc3d69D5c1c638023aC4f2E5F26E17";
 export const TxAllowListAddress = "0x0200000000000000000000000000000000000002";
 
 export type BillType = {
